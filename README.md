@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jykim74
-- 👀 I’m interested in PKI programs
-- 🌱 I’m currently developing PKI programs with openssl alone.
+- 👋 Hi, I’m jykim74 and I am korean.
+- 👀 I’m interested in PKI programs and have worked these area.
+- 🌱 I’m currently developing PKI programs in private time and I am working in company too.
 - 💞️ I’m looking to upgrade these PKI programs .
 - 📫 I hope to work with company or people to need these PKI programs.
 - If you want to contact, mail me My mail is jykim74@gmail.com
