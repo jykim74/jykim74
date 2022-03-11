@@ -4,7 +4,7 @@
 - 💞️ I’m looking to upgrade these PKI programs .
 - 📫 I hope to work with company or people to need these PKI programs.
 - If you want to contact, mail me My mail is jykim74@gmail.com
-- You can see some of programs in https://jykim74.tistory.com/category/Software
+- You can download some of programs in https://jykim74.tistory.com/category/Software
 - 
 <!---
 jykim74/jykim74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
