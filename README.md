@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jykim74 and I am korean.
-- 👀 I’m interested in PKI programs and have worked these area.
+- 👀 I’m interested in PKI programs and I have developed these programs with Openssl3 and QT.
 - 🌱 I’m currently developing PKI programs in private time and I am working in company too.
 - 💞️ I’m looking to upgrade these PKI programs. Currently, my company is not affiliated with the PKI program.
 - 📫 I hope to work with company or people to need these PKI programs.
