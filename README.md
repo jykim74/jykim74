@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
 - 👀 I’m interested in PKI programs and I have developed these programs with Openssl3 and QT.
-- 🌱 I’m currently developing PKI programs in private time and I am working in company too.
-- 💞️ I’m looking to upgrade these PKI programs. Currently, my company is not affiliated with the PKI program.
+- 🌱 I’m currently developing PKI programs in private time.
+- 💞️ If you want to contact me. mail to me ( mailto: jykim74@gmail.com )
 - 📫 PKILib is not public.( I have not plan to publish the library yet. )
 
 - You can download some of programs in https://jykim74.tistory.com/category/Software
