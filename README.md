@@ -3,7 +3,7 @@
 - 🌱 I’m currently developing PKI programs in private time and I am working in company too.
 - 💞️ I’m looking to upgrade these PKI programs. Currently, my company is not affiliated with the PKI program.
 - 📫 I hope to work with company or people to need these PKI programs.
-- If you want to contact, mail me My mail is jykim74@gmail.com
+- If you want to contact to me, mail to me. My mail is jykim74@gmail.com
 - You can download some of programs in https://jykim74.tistory.com/category/Software
 - 
 <!---
