@@ -4,7 +4,7 @@
 - 💞️ If you want to contact me. mail to me ( mailto: jykim74@gmail.com )
 - 📫 The PKILib is not public.( I have not plan to publish the library yet. )
 
-- You can download some of programs in https://jykim74.tistory.com/category/Software
+- You can download some of the programs in https://jykim74.tistory.com/category/Software
 
 <!---
 jykim74/jykim74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
