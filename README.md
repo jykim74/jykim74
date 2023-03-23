@@ -6,10 +6,10 @@
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-0075b5?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jykim74)](https://www.linkedin.com/in/jykim74)
 -->
 
-<!--
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jykim74&show_icons=true&theme=bear)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim74&layout=compact&theme=bear)
--->
+
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jykim74&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
