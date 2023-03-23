@@ -6,7 +6,8 @@
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-0075b5?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jykim74)](https://www.linkedin.com/in/jykim74)
 -->
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jykim74&show_icons=true&theme=bear)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim74&layout=compact&theme=bear)
 
 
 - 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
