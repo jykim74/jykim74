@@ -7,8 +7,8 @@
 -->
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jykim74&show_icons=true&theme=bear">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jykim74&layout=compact&theme=bear">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jykim74&show_icons=true&theme=bear">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jykim74&layout=compact&theme=bear">
 </p>
 
 
