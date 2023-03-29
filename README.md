@@ -5,11 +5,9 @@
 <!--
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-0075b5?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jykim74)](https://www.linkedin.com/in/jykim74)
 -->
+[![jykim74's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim74&layout=compact&theme=bear)](https://github.com/jykim74/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim74&layout=compact&theme=bear)
 
-<p>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jykim74&show_icons=true&theme=bear">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jykim74&layout=compact&theme=bear">
-</p>
 
 
 - 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
