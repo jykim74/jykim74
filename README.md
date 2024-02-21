@@ -10,7 +10,7 @@
 
 
 - 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
-- 👀 I’m interested in PKI programs and I have developed these programs with Openssl3 and QT.
+- 👀 I’m interested in PKI programs and I have developed these programs with Openssl3.
 
 
 <!---
