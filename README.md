@@ -13,9 +13,9 @@
 <!---
 - You can download the programs in below icon.
 
-<a href="https://jykim74.github.io/bereditor_manual/" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="https://jykim74.github.io/certman_manual/" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
-<a href="https://jykim74.github.io/cryptokiman_manual/" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://jykim74.github.io/bereditor_manual" target="_blank"><img src="https://img.shields.io/badge/BerEditor-006600?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://jykim74.github.io/certman_manual" target="_blank"><img src="https://img.shields.io/badge/CertMan-0094F5?style=for-the-badge&logo=Qt&logoColor=white"></a>
+<a href="https://jykim74.github.io/cryptokiman_manual" target="_blank"><img src="https://img.shields.io/badge/CryptokiMan-512BD4?style=for-the-badge&logo=Qt&logoColor=white"></a>
 
 
 jykim74/jykim74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
