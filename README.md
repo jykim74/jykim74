@@ -1,5 +1,5 @@
-- 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
-- 👀 I’m interested in PKI programs and I have developed these programs with Openssl3.
+- 👋 Hi, My name is JayKim and I am korean (I am not good at english. I need to learn english more. )
+- 👀 I’m interested in PKI programs and I have developed BerEditor, CertMan and CryptokiMan programs with Openssl3.
   
 - 🌱 [The BerEditor](https://github.com/jykim74/BerEditor/) is an integrated GUI tool designed to support developers working with PKI and cryptographic technologies. It facilitates the development of security protocols and troubleshooting by analyzing and validating ASN.1 encoded data, digital certificates, digital signatures, and various other PKI-related data.
   
