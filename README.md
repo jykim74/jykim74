@@ -1,7 +1,3 @@
-[![github Badge](https://img.shields.io/badge/-github-33aabb?logo=tistory&logoColor=white&link=https://jykim74.github.io)](https://jykim74.github.io)
-[![tistory Badge](https://img.shields.io/badge/-tistory-000000?logo=tistory&logoColor=white&link=https://jykim74.tistory.com)](https://jykim74.tistory.com)
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjykim74?color=blue&label=hits&size=small)](https://myhits.vercel.app)
-
 - 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
 - 👀 I’m interested in PKI programs and I have developed these programs with Openssl3.
 - 🌱 [The BerEditor](https://github.com/jykim74/BerEditor/) is a tool for decoding and encoding BER and DER.
@@ -9,6 +5,9 @@
 - ✨ [The CryptokiMan](https://github.com/jykim74/CryptokiMan/) is a tool for managing HSM device with cryptoki library.
 - 📫 The PKILib is not public.( I have no plan to publish the library yet. )
 
+[![github Badge](https://img.shields.io/badge/-github-33aabb?logo=tistory&logoColor=white&link=https://jykim74.github.io)](https://jykim74.github.io)
+[![tistory Badge](https://img.shields.io/badge/-tistory-000000?logo=tistory&logoColor=white&link=https://jykim74.tistory.com)](https://jykim74.tistory.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjykim74?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 <!---
 - You can download the programs in below icon.
