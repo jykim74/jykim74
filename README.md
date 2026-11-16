@@ -1,8 +1,12 @@
 - 👋 Hi, I’m jykim74 and I am korean (I am not good at english. I need to learn english more. )
 - 👀 I’m interested in PKI programs and I have developed these programs with Openssl3.
-- 🌱 [The BerEditor](https://github.com/jykim74/BerEditor/) is a tool for decoding and encoding BER and DER.
-- 💞️ [The CertMan](https://github.com/jykim74/CertMan/) is a tool for managing X.509 Certificate and CRL.
-- ✨ [The CryptokiMan](https://github.com/jykim74/CryptokiMan/) is a tool for managing HSM device with cryptoki library.
+  
+- 🌱 [The BerEditor](https://github.com/jykim74/BerEditor/) is an integrated GUI tool designed to support developers working with PKI and cryptographic technologies. It facilitates the development of security protocols and troubleshooting by analyzing and validating ASN.1 encoded data, digital certificates, digital signatures, and various other PKI-related data.
+  
+- 💞️ [The CertMan](https://github.com/jykim74/CertMan/) is a certificate management tool that supports the management and verification of digital certificates and Public Key Infrastructure (PKI). It enables users to examine certificate issuance details, validity periods, public keys, extension fields, and certificate chains, while facilitating the efficient execution of technical tasks related to certificate management.
+  
+- ✨ [The CryptokiMan](https://github.com/jykim74/CryptokiMan/) is a tool designed to support the management and development of cryptographic devices and tokens based on the PKCS#11 standard. It interfaces with Hardware Security Modules (HSMs), smart cards, and PKCS#11-compliant cryptographic modules, enabling users to verify and test cryptographic objects, key pairs, cryptographic operations, and digital signature functions.
+  
 - 📫 The PKILib is not public.( I have no plan to publish the library yet. )
 
 [![github Badge](https://img.shields.io/badge/-github-33aabb?logo=tistory&logoColor=white&link=https://jykim74.github.io)](https://jykim74.github.io)
